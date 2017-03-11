@@ -1,5 +1,8 @@
 _repo: The-Marvelous-Land-of-Oz_54
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Baum, L. Frank (Lyman Frank)
@@ -22,6 +25,8 @@ description: "The Marvelous Land of Oz: Being an Account of the Further Adventur
   \ Comics, with the first issue being released in November 2009. Plot elements from\
   \ The Marvelous Land of Oz are included in the 1985 Disney feature film Return to\
   \ Oz.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54#The-Marvelous-Land-of-Oz
 gutenberg_bookshelf:
 - Fantasy
 - Children's Literature
