@@ -176,7 +176,7 @@ In the Jackdaw's Nest                                   201
 
 Dr. Nikidik's Famous Wishing Pills                      219
 
-The Scarecrow Appeals to Glenda the Good                231
+The Scarecrow Appeals to Glinda the Good                231
 
 The Tin-Woodman Plucks a Rose                           247
 
@@ -257,7 +257,7 @@ a three-cornered nose, and
 10
 a mouth shaped like a new moon. The face, when completed, could not have
 been considered strictly beautiful; but it wore a smile so big and broad,
-and was so Jolly in expression, that even Tip laughed as he looked
+and was so jolly in expression, that even Tip laughed as he looked
 admiringly at his work.
 
 The child had no playmates, so he did not know that boys often dig out the
@@ -5377,7 +5377,7 @@ palace.
 
 
 
-231               The Scarecrow Appeals to Glenda the Good
+231               The Scarecrow Appeals to Glinda the Good
 
 
 "Hooray!" shouted the Scarecrow, gaily. "We can now leave this miserable
